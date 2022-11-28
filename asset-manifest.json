@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40ced622.css",
+    "main.js": "/static/js/main.7bab5cf3.js",
+    "static/media/ecommerce.png": "/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/react-logo.gif": "/static/media/react-logo.0a7cffca85bca72045b7.gif",
+    "static/media/sidebar.png": "/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/musicapp.png": "/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/resume.pdf": "/static/media/resume.457f63dfad61723cbe99.pdf",
+    "static/media/mongoDB.png": "/static/media/mongoDB.0421350a9b239b7ef68d.png",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Naaz.jpg": "/static/media/Naaz.d0dad027a9367f36de4a.jpg",
+    "static/media/hoc.png": "/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/index.html",
+    "main.40ced622.css.map": "/static/css/main.40ced622.css.map",
+    "main.7bab5cf3.js.map": "/static/js/main.7bab5cf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40ced622.css",
+    "static/js/main.7bab5cf3.js"
+  ]
+}
