@@ -1,0 +1,22 @@
+.home-wrapper{
+  
+    height: 95vh;
+    background-color:black;
+    color:white;
+   
+}
+.name-n{
+     padding-top: 8rem;
+}
+.resume-btn{
+    padding: 0.7rem 2rem;
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 8px;
+    border: none;
+    color:rgba(23, 0, 128, 0.733);
+}
+.my-photo{
+    border-radius: 50%;
+}
+
