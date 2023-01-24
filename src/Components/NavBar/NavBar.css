@@ -1,14 +1,25 @@
-*{
+/* *{
     box-sizing: border-box;
+} */
+#pos{
+ position: sticky;
+ z-index: 999;
+ 
+ transition: all 0.3s ease;
 }
-.na-wrapper{
+.nav-menu:hover{
+    cursor: pointer;
+    color:chartreuse
+}
+/* .na-wrapper{
     display: flex;
+    width: 100%;
     position: sticky;
     top: 0;
     padding: 10px 5px;
     justify-content: space-between;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.801);
+    background-color: rgba(0, 0, 0, 0.993);
     color: white;
    
 }
@@ -26,11 +37,12 @@ ul>li{
 
 .name{
     /* margin-left: 3rem; */
-    font-size: 25px;
+    /* font-size: 25px;
     font-weight: 900;
-    color: green;
+    color: black;
     text-transform: uppercase;
-}
+}  */
+
 /* .toggle-button {
     position: absolute;
     top: .75rem;

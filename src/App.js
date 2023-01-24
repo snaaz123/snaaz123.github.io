@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import NavBar from './Components/NavBar/NavBar';
 import Home from './Components/Home/Home';
@@ -10,12 +10,15 @@ import Project from './Components/Projects/Projects';
 function App() {
   return (
     <div className="App">
-    <NavBar/>
-    <Home/>
-    <About/>
-    <Skills/>
-    <Project/>
-    <Contact/>
+      <NavBar />
+      <Home />
+      <About />
+
+      <Skills />
+
+      <Project />
+      
+      <Contact />
     </div>
   );
 }

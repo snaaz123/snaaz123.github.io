@@ -1,12 +1,16 @@
 .about{
     height: 90vh;
     background-color: rgba(0, 0, 0, 0.575);
+     padding-top: 2.5rem;
+     
+     color: white;
+     border:1px solid yellow;
 }
 .head{
     font-size: 40px;
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
+    padding-top: 2.5rem;
+   
     text-transform: uppercase;
     font-weight: 900;
-
+   
 }

@@ -5,6 +5,10 @@
     color:white;
    
 }
+.resume:hover{
+    color: chartreuse;
+    background-color: hotpink;
+}
 .name-n{
      padding-top: 8rem;
 }
@@ -20,3 +24,16 @@
     border-radius: 50%;
 }
 
+@media screen and (min-width:651px) and (max-width:1024px){
+    .home-wrapper{
+        height: auto;
+        flex-direction: column;
+    }
+}
+@media screen and (min-width:320px) and (max-width:650px){
+    .home-wrapper{
+        height: auto;
+        padding-left: 0;
+        flex-direction: column;
+    }
+}

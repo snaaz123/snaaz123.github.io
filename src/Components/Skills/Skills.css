@@ -1,10 +1,12 @@
-*{
-    margin: 0;
+/* .head{
+    font-size: 40px;
+    padding-top: 1rem;
+    padding-bottom: 1.5rem;
+    text-transform: uppercase;
+    font-weight: 900;
 }
 .skills{
-     height: 100vh; 
-    background-color: rgba(0, 0, 0, 0.575);
-    color: white;
+     height: 150vh; 
     padding:0px 2%;
 
 }
@@ -13,28 +15,58 @@
     grid-template-columns: repeat(300px,1fr);
     grid-template-rows:repeatauto;
     gap:20px; */
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 3fr));
+    /* display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 3fr));
     justify-items: center;
-    gap: 10px;
+    gap: 20px;
+    padding:20px;
+    background-color:#1A202C;
    
 
-}
+} */
 
-.skill-n{
+/* .skill-n{
     width:90%;
-    height: 250px;
-    background-color: rgba(0, 0, 0, 0.37);
+    padding: 15%;
+    background-color:white;
     border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
 }
-.head{
-    font-size: 40px;
-    padding-bottom: 1.5rem;
-    text-transform: uppercase;
-    font-weight: 900;
+.skill-n:hover{
+    cursor: pointer;
+}
+.skill-heading{
+    margin-top: 8px;
+    font-weight: 700;
+} */
+.tooltip {
+  position: relative;
+  display: inline-block;
 }
 
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  font-size: 16px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+.tooltip:hover{
+cursor: pointer;
+}
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  
+}
+
+ 
