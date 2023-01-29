@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.3df76033.css",
-    "main.js": "/static/js/main.c695a309.js",
+    "main.css": "/static/css/main.4f6a2426.css",
+    "main.js": "/static/js/main.f4ad0fa4.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/coding-kira.gif": "/static/media/coding-kira.278b61895e9b18d4b3cf.gif",
     "static/media/myntra.png": "/static/media/myntra.35a2b59a411afc2d5326.png",
     "static/media/snapdeal.png": "/static/media/snapdeal.c17da29e93ff99b29ab7.png",
     "static/media/lately.png": "/static/media/lately.7c29bc439dc5b98dd9b4.png",
@@ -10,12 +11,12 @@
     "static/media/NAAZ_pic1.jpg": "/static/media/NAAZ_pic1.9e03ee92d494edf26f82.jpg",
     "static/media/REACT.png": "/static/media/REACT.afe49b5d623605e8c474.png",
     "index.html": "/index.html",
-    "main.3df76033.css.map": "/static/css/main.3df76033.css.map",
-    "main.c695a309.js.map": "/static/js/main.c695a309.js.map",
+    "main.4f6a2426.css.map": "/static/css/main.4f6a2426.css.map",
+    "main.f4ad0fa4.js.map": "/static/js/main.f4ad0fa4.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3df76033.css",
-    "static/js/main.c695a309.js"
+    "static/css/main.4f6a2426.css",
+    "static/js/main.f4ad0fa4.js"
   ]
 }
