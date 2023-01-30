@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f6a2426.css",
-    "main.js": "/static/js/main.f4ad0fa4.js",
+    "main.css": "/static/css/main.8682992b.css",
+    "main.js": "/static/js/main.63ad54ee.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/coding-kira.gif": "/static/media/coding-kira.278b61895e9b18d4b3cf.gif",
     "static/media/myntra.png": "/static/media/myntra.35a2b59a411afc2d5326.png",
     "static/media/snapdeal.png": "/static/media/snapdeal.c17da29e93ff99b29ab7.png",
+    "static/media/wave.gif": "/static/media/wave.fc616360b0925b2da8f7.gif",
     "static/media/lately.png": "/static/media/lately.7c29bc439dc5b98dd9b4.png",
+    "static/media/chakra.png": "/static/media/chakra.f9fdab5c336e88ebe667.png",
     "static/media/Najrin-Shah-Resume.pdf": "/static/media/Najrin-Shah-Resume.f8a92916c0e11c44295d.pdf",
+    "static/media/vercel.png": "/static/media/vercel.3dad59506ca266b203a0.png",
     "static/media/NAAZ_pic1.jpg": "/static/media/NAAZ_pic1.9e03ee92d494edf26f82.jpg",
+    "static/media/express.png": "/static/media/express.cca64e0f360897258ecb.png",
+    "static/media/netlify.png": "/static/media/netlify.156b9a663fd0c16d4e19.png",
     "static/media/REACT.png": "/static/media/REACT.afe49b5d623605e8c474.png",
+    "static/media/vscode.png": "/static/media/vscode.71181920f5d928e6db6b.png",
+    "static/media/npm.png": "/static/media/npm.5904c46fdce9a3192c3b.png",
     "index.html": "/index.html",
-    "main.4f6a2426.css.map": "/static/css/main.4f6a2426.css.map",
-    "main.f4ad0fa4.js.map": "/static/js/main.f4ad0fa4.js.map",
+    "main.8682992b.css.map": "/static/css/main.8682992b.css.map",
+    "main.63ad54ee.js.map": "/static/js/main.63ad54ee.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f6a2426.css",
-    "static/js/main.f4ad0fa4.js"
+    "static/css/main.8682992b.css",
+    "static/js/main.63ad54ee.js"
   ]
 }
